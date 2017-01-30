@@ -6,7 +6,7 @@ module.exports = {
         app: './app.js'
     },
     output: {
-        path: 'output/',
+        path: 'output/generated/',
         filename: '[name].js'
     },
     resolve: {
